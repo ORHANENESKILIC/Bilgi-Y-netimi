@@ -16,11 +16,16 @@ Görseller:
 
 
 Veri tabanı şablonu:
+
 ![image](https://user-images.githubusercontent.com/78687726/154804139-47a1331a-f549-4d6b-97bc-2e726ea35cba.png)
 
 
 işlevler:
+
 -Kullanıcı kaydı
+
 -kullanıcı girişi
+
 -veri tabanına veri gönderme
+
 -veri tabanında verileri çekme
